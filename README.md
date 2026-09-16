@@ -4,11 +4,13 @@
 
 **Software QA Engineer | Manual Testing | API & Automation**
 
-</div>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yousefelkhmesy/yousefelkhmesy/output/github-snake.svg" alt="GitHub Contribution Snake">
-</p>
+🧪 ━━━━━━━━━ 🔍 ━━━━━━━━━ ✅
+<br>
+<sub>Testing &nbsp;&nbsp;&nbsp;&nbsp; Validation &nbsp;&nbsp;&nbsp;&nbsp; Quality</sub>
+
+</div>
 
 ---
 
@@ -82,6 +84,8 @@ I also work on **test automation** and use AI tools to support my testing workfl
 <a href="https://github.com/yousefelkhmesy?tab=repositories">
 <img src="https://img.shields.io/badge/💻%20View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/yousefelkhmesy">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
