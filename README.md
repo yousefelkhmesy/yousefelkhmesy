@@ -61,9 +61,9 @@ I also work on **test automation** and use AI tools to support my testing workfl
 
 | Project | Description |
 |---|---|
-| 🔍 **BugLens** | AI-powered QA assistant |
-| 🤖 **Automation Project** | UI test automation using Java & Selenium |
-| 🔗 **API Automation** | API automation and testing |
+| 🔍 **[BugLens](REPOSITORY_LINK)** | AI-powered QA assistant |
+| 🤖 **[Automation Project](REPOSITORY_LINK)** | UI test automation using Java & Selenium |
+| 🔗 **[API Automation](REPOSITORY_LINK)** | API automation and testing |
 
 ---
 
@@ -71,16 +71,12 @@ I also work on **test automation** and use AI tools to support my testing workfl
 
 <p align="center">
 
-<a href="https://github.com/yousefelkhmesy">
+<a href="https://github.com/yousefelkhmesy?tab=repositories">
 <img src="https://img.shields.io/badge/💻%20View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yousefelkhmesy">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-555555?style=for-the-badge"/>
 </a>
 
 </p>
