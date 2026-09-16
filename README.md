@@ -1,70 +1,94 @@
-# Hi, I'm Yousef Mahmoud 👋
+<div align="center">
 
-### Software QA Engineer | Manual Testing | API & Automation
+# 👋 Hi, I'm Yousef
 
-I'm a Software QA Engineer with experience in Manual, Functional,
-UI, and API Testing.
+**Software QA Engineer | Manual Testing | API & Automation**
 
-I'm currently improving my automation skills and working toward
-Automation QA / SDET roles.
+</div>
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## 🧪 What I Work With
+### 👨‍💻 About Me
 
-- Manual & Functional Testing
-- API Testing
-- SQL & Database Testing
-- Test Automation
-- Selenium & Java
+I'm a Software QA Engineer working across different stages of the testing process.
 
----
+I usually start from the **SRS**, prepare the **Test Plan**, review the UI/UX design in **Figma**, and continue with test case design, API testing, exploratory testing, and system integration testing when needed.
 
-## 🛠️ Tools & Technologies
+I also work on **test automation** and use AI tools to support my testing workflow and improve productivity.
+
+</td>
+
+<td width="45%" valign="top">
+
+### 🛠️ Tech Stack
+
+**Automation**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-25A162?style=flat)
+
+**API & Database**
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Currently Exploring**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 BugLens
-
-An AI-powered QA assistant project focused on helping with
-common software testing tasks.
-
-[View Repository](https://github.com/yousefelkhmesy)
-
-### 🔹 Test Automation
-
-Selenium and Java automation projects focused on building
-maintainable and reusable automated tests.
-
-[View Repositories](https://github.com/yousefelkhmesy?tab=repositories)
-
-### 🔹 API Testing
-
-API testing projects using Postman with different positive,
-negative, and validation scenarios.
-
-[View Repositories](https://github.com/yousefelkhmesy?tab=repositories)
+| Project | Description |
+|---|---|
+| 🔍 **BugLens** | AI-powered QA assistant |
+| 🤖 **Automation Project** | UI test automation using Java & Selenium |
+| 🔗 **API Automation** | API automation and testing |
 
 ---
 
-## 📌 What I'm Working Toward
+## 🔗 Quick Links
 
-**Software Tester → Automation QA → SDET**
+<p align="center">
 
-I'm focusing on improving my automation, programming,
-API, database, and software engineering skills.
+<a href="https://github.com/yousefelkhmesy">
+<img src="https://img.shields.io/badge/💻%20View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yousefelkhmesy">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-555555?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 🔗 Connect With Me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefelkhmesy)
+<strong>Manual Testing • API Testing • Automation • SQL • Software Quality</strong>
+
+</p>
