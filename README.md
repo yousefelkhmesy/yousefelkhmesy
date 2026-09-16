@@ -6,8 +6,15 @@
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yousefelkhmesy/yousefelkhmesy/output/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
+---
+
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
 ### 👨‍💻 About Me
@@ -45,13 +52,14 @@ I also work on **test automation** and use AI tools to support my testing workfl
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**Currently Exploring**
+**Web**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 </td>
+
 </tr>
 </table>
 
@@ -61,9 +69,9 @@ I also work on **test automation** and use AI tools to support my testing workfl
 
 | Project | Description |
 |---|---|
-| 🔍 **[BugLens](REPOSITORY_LINK)** | AI-powered QA assistant |
-| 🤖 **[Automation Project](REPOSITORY_LINK)** | UI test automation using Java & Selenium |
-| 🔗 **[API Automation](REPOSITORY_LINK)** | API automation and testing |
+| 🔍 **[BugLence](https://github.com/yousefelkhmesy/BugLence)** | AI-powered QA assistant for bug reporting, defect triage, root cause analysis, and test case generation. |
+| 🤖 **[E-commerce Automation Testing](https://github.com/yousefelkhmesy/E-commerce-AutomationTesting)** | UI test automation project using Java and Selenium WebDriver. |
+| 🔗 **[Restful Booker API Automation](https://github.com/yousefelkhmesy/RestfulBooker-API-Automation)** | API automation project using REST Assured and TestNG for CRUD operations and API validation. |
 
 ---
 
@@ -87,12 +95,4 @@ I also work on **test automation** and use AI tools to support my testing workfl
 
 <strong>Manual Testing • API Testing • Automation • SQL • Software Quality</strong>
 
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yousefelkhmesy/yousefelkhmesy/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
