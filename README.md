@@ -88,3 +88,11 @@ I also work on **test automation** and use AI tools to support my testing workfl
 <strong>Manual Testing • API Testing • Automation • SQL • Software Quality</strong>
 
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yousefelkhmesy/yousefelkhmesy/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
