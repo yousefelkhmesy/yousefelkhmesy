@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ I also work on **test automation** and use AI tools to support my testing workfl
 </tr>
 </table>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -75,7 +75,7 @@ I also work on **test automation** and use AI tools to support my testing workfl
 | 🤖 **[E-commerce Automation Testing](https://github.com/yousefelkhmesy/E-commerce-AutomationTesting)** | UI test automation project using Java and Selenium WebDriver. |
 | 🔗 **[Restful Booker API Automation](https://github.com/yousefelkhmesy/RestfulBooker-API-Automation)** | API automation project using REST Assured and TestNG for CRUD operations and API validation. |
 
----
+
 
 ## 🔗 Quick Links
 
@@ -89,7 +89,6 @@ I also work on **test automation** and use AI tools to support my testing workfl
   </a>
 </p>
 
----
 
 <p align="center">
   <strong>Manual Testing • API Testing • Automation • SQL • Software Quality</strong>
