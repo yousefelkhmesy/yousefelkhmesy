@@ -80,23 +80,17 @@ I also work on **test automation** and use AI tools to support my testing workfl
 ## 🔗 Quick Links
 
 <p align="center">
-
-<a href="https://github.com/yousefelkhmesy?tab=repositories">
-<img src="https://img.shields.io/badge/💻%20View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/yousefelkhmesy">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/yousefelkhmesy?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yousefelkhmesy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-<strong>Manual Testing • API Testing • Automation • SQL • Software Quality</strong>
-
+  <strong>Manual Testing • API Testing • Automation • SQL • Software Quality</strong>
 </p>
